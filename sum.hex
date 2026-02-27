@@ -1,0 +1,16 @@
+// Soma de dois numeros
+29 // LDC
+//
+05 // CONSTANTE 5
+//
+2A // LDB_B
+//
+08 // CONSTANTE 8
+//
+09 // ADD
+//
+21 // STA
+//
+04 // ENDEREÇO RAM 4
+//
+B8 // HALT

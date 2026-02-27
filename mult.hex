@@ -1,0 +1,27 @@
+2B // LDC_ACC
+//
+00 // CONSTANTE 0
+//
+29 // LDC
+//
+03 // CONSTANTE 3
+//
+2C // LDC_COUNT
+//
+04 // CONSTANTE 4
+//
+8B // ADD_A
+//
+94 // DJNZ
+//
+06 // ENDEREÇO ROM 6
+//
+21 // STA
+//
+50 // ENDEREÇO RAM 80
+//
+23 // ST_ACC
+//
+03 // ENDEREÇO RAM 3
+//
+B8 // HALT

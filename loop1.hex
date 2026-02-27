@@ -1,0 +1,26 @@
+// Multiplica todos os valores de um vetor por 2
+2C // LDC_COUTN
+//
+05 // CONSTANTE 5
+//
+2A // LDB_B
+//
+80 // CONSTANTE 128
+//
+79 // LDA_IN
+//
+69 // SHL
+//
+C1 // ST_IN
+//
+82 // INC_B
+//
+94 // DJNZ
+//
+04 // ENDEREÇO DE ROM 4
+//
+21 // STA
+//
+30 // ENDEREÇO DE RAM 48
+//
+B8 // HALT

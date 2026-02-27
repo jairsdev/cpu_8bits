@@ -1,0 +1,22 @@
+//Teste para sub rotinas
+29 // LDC
+//
+AA // CONSTANTE 170
+//
+A9 // PUSH_A
+//
+9E // CALL
+//
+09 // ENDEREÇO ROM 9
+//
+21 // STA
+//
+20 // ENDEREÇO DE RAM 32
+//
+B2 // POP_B
+//
+B8 // HALT
+//
+61 // SHL
+//
+A0 // RET

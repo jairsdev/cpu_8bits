@@ -1,0 +1,25 @@
+// SOMA TODOS OS NUMEROS DO VETOR DA POSIÇÃO 10 (h0A) ATE 15 (h0e) NO ACC
+//
+2B // LDC_ACC
+//
+00 // CONSTANTE 0
+//
+2A // LDB_B
+//
+0A // CONSTANTE 10
+//
+2C // LDC_COUNT
+// 
+05 // CONSTANTE 5
+//
+79 // LDA_IN
+//
+8B // ADD_A
+//
+82 // INC_B
+//
+94 // DJNZ
+//
+06 // ENDEREÇO DE ROM 6
+//
+B8 // HALT
