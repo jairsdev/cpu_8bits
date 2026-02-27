@@ -1,2 +1,2 @@
-# cpu_8bits
-Design e implementação de um processador RISC de 8 bits multi-ciclo
+# Design de um Processador RISC de 8-bits Multi-ciclo utilizando Verilog HDL em FPGA
+Design, implementação e validação de um processador RISC de 8 bits multi-ciclo voltado para prototipagem em FPGA. O objetivo principal é aplicar no projeto conceitos fundamentais de arquitetura de computadores e otimização lógica. O processador emprega uma arquitetura Harvard Modificada, apresentando memórias separadas para programa (ROM) e dados (RAM), permitindo ao mesmo tempo a busca imediata de operandos a partir do caminho de instrução. A microarquitetura é controlada por uma Máquina de Estados Finitos (FSM) multi-ciclo, suportando um Conjunto de Instruções (ISA) de 35 instruções, incluindo operações aritméticas, fluxo de controle (saltos e loops) e manipulação de pilha (PUSH/POP/CALL/RET) suportada por registradores dedicados.
